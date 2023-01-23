@@ -4,10 +4,10 @@ A pose detection algorithm that can detect knee bend movements. User stats like 
 A robust algorithm is used to minimise the affect of fluctuating keypoints during detection. 
 
 ## Input sample:
-![input](Pose_Detection/Input_Sample/Sample.jpg "")
+![input](Input_Sample/Sample.jpg "")
 
 ## Output result:
-![output](Pose_Detection/Result/Screenshot_output.jpg "")
+![output](Result/Screenshot_output.jpg "")
 
 Programming Language: Python3
 Libraries used: OpenCV, Mediapipe, Numpy
