@@ -9,5 +9,8 @@ A robust algorithm is used to minimise the affect of fluctuating keypoints durin
 ## Output result:
 ![output](Result/Screenshot_output.jpg "")
 
+## Angle plot:
+![Hist](angleHist.png "")
+
 Programming Language: Python3
 Libraries used: OpenCV, Mediapipe, Numpy
